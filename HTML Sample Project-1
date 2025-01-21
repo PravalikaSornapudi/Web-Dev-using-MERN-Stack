@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <div>
+            <h1>Pravalika Sornapudi</h1>
+            <p>Contact: <a href="pravalikasornapudi@gmail.com">pravalikasornapudi@gmail.com</a></p>
+            <p>LinkedIn: <a href="linkedin.com/in/pravalika-sornapudi-328949288/">linkedin.com/in/pravalika-sornapudi-328949288/</a></p>
+            <p>GitHub: <a href="https://github.com/PravalikaSornapudi/HTML---CodeHelp-by-Babbar-">https://github.com/PravalikaSornapudi/HTML---CodeHelp-by-Babbar-</a></p>
+        </div>
+        <table>
+            <tr>
+                <td>
+                    <img src="diagram.jpg" alt="Christmas Pic" height="100px" width="100px">
+                </td>
+                <td>
+                    I'm a Student currently pursuing 3rd year in Bachelors of Technology at Vignan's Institute of Engineering for Women. Currently, I'm preparing for placements by honing my skills in the area of Aptitude, Web development and DSA with java. I hopw everything goes well and I can learn with ease.
+                </td>
+            </tr>
+        </table>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li>Bachelor of Technology in Information Technology, Vignan's</li>
+                <li>M.P.C in Vignana Jyothi Junior College</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Work Experience</h2>
+            <h3>Software Engineer, MicroSoft</h3>
+            <p>Nov 2021 - May 2022</p>
+            <ul>
+                <li>Developed and maintained web applications using HTML, CSS, and JavaScript</li>
+                <li>Collaborated with cross-functional teams to design and implement software solutions</li>
+                <li>Optmised code performance and improved application efficiency</li>
+            </ul>
+            <h3>Software Development Engineer, Amazon</h3>
+            <p>July 2019 - October 2021</p>
+            <ul>
+                <li>Assisted in developing and testing software modules</li>
+                <li>Worked on bug fixing and performance enhancement tasks</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Java</li>
+                <li>C++</li>
+                <li>Python</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>SQL</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Achievements</h2>
+            <ul>
+                <li>Service Selection Board/Recommendation letter for Officer entry in Indian Army</li>
+                <li>Published an article on data structures in a renowed tech magazine</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Library Management System</h3>
+                    <p>Library Management Application - developed a desktop application by using java swing and MYSQL server.</p>
+                    <p>Hosted Link: <a href="example.com/ecommerce">example.com/ecommerce</a></p>
+                    <p>GitHub Link: <a href="github.com/lovebabbar/ecommerce">github.com/lovebabbar/ecommerce</a></p>
+                </li>
+                <li>
+                    <h3>Friendly Chat AppFriendly</h3>
+                    <p>Friendly Chat - An Android application making use of firebase, to help people connect and chill by sending messages and images, also having login options.</p>
+                    <p>Hosted Link: <a href="example.com/blog">example.com/blog</a></p>
+                    <p>GitHub Link: <a href="github.com/lovebabbar/blog">github.com/lovebabbar/blog</a></p>
+                </li>
+                <li>
+                    <h3>Secure Messenger AppSecure</h3>
+                    <p>An Android Application to have secure sender and recipient, using a number of cryptography algorithms for encryption and decryption.</p>
+                    <p>Hosted Link: <a href="example.com/dashboard">example.com/dashboard</a></p>
+                    <p>GitHub Link: <a href="github.com/lovebabbar/dashboard">github.com/lovebabbar/dashboard</a></p>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Frequently Asked Questions</h2>
+            <details>
+                <summary>What is Lorem Ipsum?</summary>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas, dicta?</p>
+            </details>
+        </section>
+        <footer>
+            <p>&#169; 2023 Love Babbar.All Rights reserved</p>
+        </footer>
+    </div>
+</body>
+</html>
